@@ -17,7 +17,7 @@ import (
 	"testing/fstest"
 	"time"
 
-	"github.com/spf13/afero/internal/common"
+	"github.com/manuelkasiske4idealo/afero/internal/common"
 )
 
 func TestIOFS(t *testing.T) {
